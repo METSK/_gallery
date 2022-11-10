@@ -1,5 +1,5 @@
 ---
-author: KonstantinosZografos in2021058
+author: KonstantinosZografos inf2021058
 image_url: /images/parrotOS.jpg
 title: ParrotOS
 year: 2013
@@ -7,10 +7,12 @@ caption: Το Parrot βασίζεται στον κλάδο'δοκιμών'το�
 license_url: "https://www.parrotsec.org/"
 license_text: ParrotOS
 categories:
-  - Ορισμός
+  - Linux
+  
   
 tags:
-  - Linux
+  - OS
+  - Software
   
 ---
 

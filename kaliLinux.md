@@ -1,5 +1,5 @@
 ---
-author: KonstantinosZografos in2021058
+author: KonstantinosZografos inf2021058
 image_url: /images/kaliLinux.png
 title: Kali Linux
 year: 2013
@@ -7,10 +7,11 @@ caption: Το Kali Linux είναι μια διανομή Linux που προέ�
 license_url: "https://www.kali.org/"
 license_text: Kali Linux
 categories:
-  - Ορισμός
+  - Linux
   
 tags:
-  - Linux
+  - OS
+  - Software
   
 ---
  
